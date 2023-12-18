@@ -1,6 +1,4 @@
-# da-modulo3-sprint2-pairprogramming-MCTamara
-
-# Pair Programming.
+# Pair Programming
 
 En este repositorio encontramos el código y la documentación utilizados durante el pair programming de este segundo sprint englobado en el tercer módulo del bootcamp de Data Analyst.
 
