@@ -15,4 +15,4 @@ Durante este sprint nos hemos centrado en visualización de datos utilizando Pyt
 ## Estructura del Repositorio
 
 - /doc: Contiene documentación relevante sobre el proyecto, como manuales o informes.
-- /codigo: Incluye los scripts y programas desarrollados en Python para llevar a cabo el análisis de datos, implementación de pruebas y visualización.
+- /cod: Incluye los scripts y programas desarrollados en Python para llevar a cabo el análisis de datos, implementación de pruebas y visualización.
